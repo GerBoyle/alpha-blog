@@ -34,6 +34,8 @@ gem 'jbuilder', '~> 2.5'
 #adding Webpacker for JavaScriptlibrary management
 gem 'webpacker', '~> 3.5'
 
+# react gem for rails
+gem 'react-rails'
 
 # Use Redis adapter to run Action Cable in production
 # gem 'redis', '~> 4.0'
