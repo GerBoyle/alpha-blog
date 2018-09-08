@@ -1,2 +1,2 @@
 README for ruby on rails alpha blog project
-test
+testing
